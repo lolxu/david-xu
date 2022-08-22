@@ -7,5 +7,3 @@ Some of my projects (games) that I have worked on
 - [Paint It Green](https://lolxu.itch.io/paint-it-green)
 
 I want to work on more projects!
-
-*p.s. Prof. Cote is da best!*
